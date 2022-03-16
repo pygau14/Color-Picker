@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.target {
+  margin: 40px;
+  width: 400px;
+  height: 400px;
+  background-color: grey;
+}
